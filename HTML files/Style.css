@@ -1,0 +1,21 @@
+
+            body{
+                background-image: linear-gradient(to right,green,red,blue,pink,yellow);
+            }
+            h1{
+                color:orangered;
+                font-family:Jokerman
+            }
+            h2{
+                color: red;
+                font-family:AmarnathBold;
+            }
+            p{
+                color: yellow;
+                font-family: AmarnathBold;
+            }
+            li{
+                color:yellow;
+                font-family: AmarnathBold;
+            }
+        
